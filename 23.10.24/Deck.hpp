@@ -1,6 +1,6 @@
 #pragma once
-#ifndef HAND_HPP
-#define HAND_HPP
+#ifndef DECK_HPP
+#define DECK_HPP
 #include <vector>
 #include "Card.hpp"
 
